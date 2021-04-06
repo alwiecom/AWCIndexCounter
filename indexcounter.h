@@ -1,3 +1,4 @@
+//Just for testing
 #ifndef INDEXCOUNTER_H
 #define INDEXCOUNTER_H
 
