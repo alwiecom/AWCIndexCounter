@@ -1,3 +1,5 @@
+//Only for test
+
 #include "indexcounter.h"
 
 Indexcounter::Indexcounter() {
